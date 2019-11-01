@@ -88,7 +88,7 @@ if(isset($_POST['calcular'])){
      </span>
      <br>
      <span>
-        <label> ip del Servidor</label>
+        <label> ip del Cliente</label>
         <br>
         <?php echo $ip_cliente ?>
      </span>
